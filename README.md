@@ -1,4 +1,4 @@
-Olá &x1F44B, eu sou Rafael Duarte 
+Olá 👋, eu sou Rafael Duarte 
 <hr>
 
  
