@@ -1,7 +1,8 @@
-<h1 align="center"> Olá 👋, eu sou Rafael Duarte <h1> 
-<h3 align="center"> Um estudante de progamação</h3>
+<h1 align="center">Olá 👋, eu sou Rafael Duarte<h1> 
+<h3 align="center">Um estudante de progamação</h3> <br>
+<br>
 
-- 🌱 Atualmente estudando HTML5 e CSS3
+- 🌱 Atualmente estudando HTML5 e CSS3 <br>
 - 📫 Como me contatar **rafaelduartemezavila@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
