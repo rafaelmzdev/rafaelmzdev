@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Rafael Duarte<h1> 
+<h1 align="center">Olá 👋, eu sou o Rafael Duarte<h1> 
 <h3 align="center">Um estudante de progamação</h3> <br>
 <br>
 
