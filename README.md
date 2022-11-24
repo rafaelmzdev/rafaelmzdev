@@ -2,7 +2,7 @@
 <h3 align="center">Um estudante de progamação</h3> <br>
 <br>
 
-- 🌱 Atualmente estudando HTML5 e CSS3 <br>
+- 🌱 Atualmente estudando HTML5, CSS3 e JavaScript <br>
 - 📫 Como me contatar **rafaelduartemezavila@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
